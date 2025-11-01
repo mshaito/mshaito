@@ -1,19 +1,18 @@
-# 💫 About Me:
-🔭 **I’m currently working on:**<br>
-Web-based **data visualization dashboards** such as **STPH-Viz**, **PhysioViz**, and **RecoViz**, focusing on **spatiotemporal analytics** and **public-health data exploration**.<br>
+🔭 **I’m currently working on:**  
+Web-based data visualization dashboards such as **STPH-Viz**, **PhysioViz**, and **RecoViz**, focusing on **spatiotemporal analytics** and **public-health data exploration**.  
 
-🤝 **I’m looking to collaborate on:**<br>
-Projects combining **data visualization**, **machine learning**, and **biomedical informatics**, especially those that enhance **open-source research tools**.<br>
+🤝 **I’m looking to collaborate on:**  
+Projects combining **data visualization**, **machine learning**, and **biomedical informatics**, especially those that enhance **open-source research tools**.  
 
-🌱 **I’m currently learning:**<br>
-Advanced techniques in **LLM-powered interactive dashboards**, **agentic AI for data analysis**, and **cloud deployment** for scalable web applications.<br>
+🌱 **I’m currently learning:**  
+Advanced techniques in **LLM-powered interactive dashboards**, **agentic AI for data analysis**, and **cloud deployment** for scalable web applications.  
 
-💬 **Ask me about:**<br>
-**Spatiotemporal databases**, **dashboard design in Python + Streamlit**, and integrating **heterogeneous datasets** for **visual analytics**.<br>
+💬 **Ask me about:**  
+**Spatiotemporal databases**, **dashboard design in Python + Streamlit**, and **integrating heterogeneous datasets for visual analytics**.  
 
 ⚡ **Fun fact:**  
-My first visualization project, <a href="https://stphviz.streamlit.app">STPH-Viz</a>, began as a COVID-19 mapping tool and evolved into a full-scale research platform published in <a href="https://doi.org/10.1007/s10708-025-11311-x">GeoJournal (Q1)</a>.<br>
-Its successor, the <a href="https://visual1.streamlit.app">COVID-19 and Flu Data Visualizer</a>, was later presented at <a href="https://doi.org/10.1145/3733155.3734893">ACM PETRA 2025</a>.
+My first visualization project, [**STPH-Viz**](https://stphviz.streamlit.app), began as a COVID-19 mapping tool and evolved into a full-scale research platform published in [**GeoJournal (Q1)**](https://doi.org/10.1007/s10708-025-11311-x).  
+Its successor, the [**COVID-19 and Flu Data Visualizer**](https://visual1.streamlit.app), was later presented at [**ACM PETRA 2025**](https://doi.org/10.1145/3733155.3734893).
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohammad.shaito) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohammad.shaito) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mshaito) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mshaito78@gmail.com / mohammad.shaito@mavs.uta.edu) 
