@@ -12,8 +12,8 @@ Advanced techniques in **LLM-powered interactive dashboards**, **agentic AI for 
 **Spatiotemporal databases**, **dashboard design in Python + Streamlit**, and integrating **heterogeneous datasets** for **visual analytics**.<br>
 
 ⚡ **Fun fact:**  
-My first visualization project, <a href="https://stphviz.streamlit.app" target="_blank">STPH-Viz</a>, began as a COVID-19 mapping tool and evolved into a full-scale research platform published in <a href="https://doi.org/10.1007/s10708-025-11055-3" target="_blank">GeoJournal (Q1)</a>.<br>
-Its successor, the <a href="https://visual1.streamlit.app" target="_blank">COVID-19 and Flu Data Visualizer</a>, was later presented at <a href="https://dl.acm.org/doi/10.1145/3664730.3664846" target="_blank">ACM PETRA 2025</a>.
+My first visualization project, <a href="https://stphviz.streamlit.app" target="_blank">STPH-Viz</a>, began as a COVID-19 mapping tool and evolved into a full-scale research platform published in <a href="https://doi.org/10.1007/s10708-025-11311-x" target="_blank">GeoJournal (Q1)</a>.<br>
+Its successor, the <a href="https://visual1.streamlit.app" target="_blank">COVID-19 and Flu Data Visualizer</a>, was later presented at <a href="https://doi.org/10.1145/3733155.3734893" target="_blank">ACM PETRA 2025</a>.
 
 
 ## 🌐 Socials:
