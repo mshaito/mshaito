@@ -12,8 +12,8 @@ Advanced techniques in **LLM-powered interactive dashboards**, **agentic AI for 
 **Spatiotemporal databases**, **dashboard design in Python + Streamlit**, and integrating **heterogeneous datasets** for **visual analytics**.<br>
 
 ⚡ **Fun fact:**  
-My first visualization project, **[STPH-Viz](https://stph-viz.streamlit.app/)**, began as a COVID-19 mapping tool and evolved into a full-scale research platform published in **[GeoJournal (Q1)](https://doi.org/10.1007/s10708-025-11055-3)**.  
-Its successor, the **[COVID-19 and Flu Data Visualizer](https://covidfluvisualizer.streamlit.app/)**, was later presented at **[ACM PETRA 2025](https://dl.acm.org/doi/10.1145/3664730.3664846)**.
+My first visualization project, **[STPH-Viz](https://stphviz.streamlit.app)**, began as a COVID-19 mapping tool and evolved into a full-scale research platform published in **[GeoJournal (Q1)](https://doi.org/10.1007/s10708-025-11055-3)**.  
+Its successor, the **[COVID-19 and Flu Data Visualizer](https://visual1.streamlit.app)**, was later presented at **[ACM PETRA 2025](https://dl.acm.org/doi/10.1145/3664730.3664846)**.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohammad.shaito) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohammad.shaito) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mshaito) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mshaito78@gmail.com / mohammad.shaito@mavs.uta.edu) 
