@@ -49,7 +49,7 @@ Its successor, the [**COVID-19 and Flu Data Visualizer**](https://visual1.stream
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=mshaito&theme=dark&hide_border=false&show_icons=true&include_all_commits=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mshaito&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mshaito&layout=compact&theme=dark&hide_border=false)
+
 
 ---
 
