@@ -1,18 +1,18 @@
 # 💫 About Me:
 🔭 **I’m currently working on:**<br>
-Web-based **data visualization dashboards** such as **STPH-Viz**, **PhysioViz**, and **RecoViz**, focusing on **spatiotemporal analytics** and **public-health data exploration**.<br><br>
+Web-based **data visualization dashboards** such as **STPH-Viz**, **PhysioViz**, and **RecoViz**, focusing on **spatiotemporal analytics** and **public-health data exploration**.<br>
 
 🤝 **I’m looking to collaborate on:**<br>
-Projects combining **data visualization**, **machine learning**, and **biomedical informatics**, especially those that enhance **open-source research tools**.<br><br>
+Projects combining **data visualization**, **machine learning**, and **biomedical informatics**, especially those that enhance **open-source research tools**.<br>
 
 🌱 **I’m currently learning:**<br>
-Advanced techniques in **LLM-powered interactive dashboards**, **agentic AI for data analysis**, and **cloud deployment** for scalable web applications.<br><br>
+Advanced techniques in **LLM-powered interactive dashboards**, **agentic AI for data analysis**, and **cloud deployment** for scalable web applications.<br>
 
 💬 **Ask me about:**<br>
-**Spatiotemporal databases**, **dashboard design in Python + Streamlit**, and integrating **heterogeneous datasets** for **visual analytics**.<br><br>
+**Spatiotemporal databases**, **dashboard design in Python + Streamlit**, and integrating **heterogeneous datasets** for **visual analytics**.<br>
 
 ⚡ **Fun fact:**<br>
-My first visualization project started as a **COVID-19 mapping tool** and evolved into a **full-scale research platform** now published in a **Q1 journal**!<br><br>
+My first visualization project started as a **COVID-19 mapping tool** and evolved into a **full-scale research platform** now published in a **Q1 journal**!<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohammad.shaito) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohammad.shaito) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mshaito) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mshaito78@gmail.com / mohammad.shaito@mavs.uta.edu) 
