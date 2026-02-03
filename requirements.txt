@@ -15,4 +15,5 @@ scikit-learn
 matplotlib
 streamlit
 h5py
-
+standard-imghdr==3.13.0
+# (or imghdr-lts==<version you installed>)
