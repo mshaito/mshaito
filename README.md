@@ -1,23 +1,34 @@
+# 👨‍💻 Mohammad A. Shaito, Ph.D.
+### Computer Engineering | Data Visualization
+
 🌐 **Central Portfolio Hub**: [Mohammad Shaito, Ph.D.](https://sites.google.com/view/mohammad-shaito/home)
 
 ---
 
-🔬 **I’m currently working on:**  
-Web-based **data visualization dashboards** such as **STPH-Viz**, **PhysioViz**, and **RecoViz**, focusing on **spatiotemporal analytics** and **public-health data exploration**.  
+### 🚀 Current Research & Engineering
+*   **Web-Based Dashboards**: Developing scalable architectures including `STPH-Viz`, `PhysioViz`, and the `COVID-19 & Flu Comparative Tool`.
+*   **Core Focus**: Specializing in spatiotemporal analytics, public-health data exploration, and multimodal biomedical signal processing.
 
-🤝 **I’m looking to collaborate on:**  
-Projects combining **data visualization**, **machine learning**, and **biomedical informatics**, especially those that enhance **open-source research tools**.  
+### 🤝 Research Collaboration Interests
+*   **Cross-Disciplinary Projects**: Combining advanced data visualization, machine learning pipelines, and biomedical informatics models.
+*   **Open-Source Systems**: Building responsive, user-centered analytics frameworks to enhance academic research utility.
 
-🌱 **I’m currently learning:**  
-Advanced techniques in **LLM-powered interactive dashboards**, **agentic AI for data analysis**, and **cloud deployment** for scalable web applications.  
+### 🌱 Active Technical Learning
+*   **Intelligent Interfaces**: Mastering advanced techniques in LLM-powered interactive dashboards and agentic AI architectures.
+*   **Production Deployment**: Optimizing cloud environments and MLOps workflows for ultra-scalable web applications.
 
-💬 **Ask me about:**  
-**Spatiotemporal databases**, **dashboard design in Python + Streamlit**, and **integrating heterogeneous datasets** for **visual analytics**.  
+### 💬 Technical Core Expertise
+*   **Systems Architecture**: Spatiotemporal databases, relational data modeling, and high-frequency time-series infrastructures.
+*   **Full-Stack Analytics**: Dashboard engineering utilizing `Python`, `Streamlit`, `Plotly`, `Pandas`, and `NumPy`.
+*   **Data Integration**: Aggregating heterogeneous pipelines and multi-source datasets for automated visual analytics engines.
 
-⚡ **Research Highlights & Fun facts:**  
-*   My first visualization project, [**STPH-Viz**](https://stphviz.streamlit.app), began as a COVID-19 mapping tool and evolved into a full-scale research platform published in [**GeoJournal (Q1)**](https://doi.org/10.1007/s10708-025-11311-x).  
-*   Its successor, the [**COVID-19 and Flu Data Visualizer**](https://visual1.streamlit.app), was later presented at [**ACM PETRA 2025**](https://doi.org/10.1145/3733155.3734893).
-*   My latest framework, [**PhysioViz**](https://physioviz3.streamlit.app), an engine for modeling high-frequency temporal bio-signals, was published in **ACM PETRA, Springer LNCS Proceedings**.
+---  
+  
+### ⚡ Research Highlights & Milestones
+
+*   My first visualization project 🗺️ , [**STPH-Viz**](https://stphviz.streamlit.app), began as a COVID-19 mapping tool and evolved into a full-scale research platform published in [**GeoJournal (Q1)**](https://doi.org/10.1007/s10708-025-11311-x).  
+*   Its successor, the 📊 [**COVID-19 and Flu Data Visualizer**](https://visual1.streamlit.app), was later presented at [**ACM PETRA 2025**](https://doi.org/10.1145/3733155.3734893).
+*   My latest framework, 🧠 [**PhysioViz**](https://physioviz3.streamlit.app), an engine for modeling high-frequency temporal bio-signals, was published in **ACM PETRA, Springer LNCS Proceedings**.
 
 ---
 
