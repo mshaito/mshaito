@@ -1,4 +1,8 @@
-🔭 **I’m currently working on:**  
+🌐 **Central Portfolio Hub**: [Mohammad Shaito, Ph.D.](https://sites.google.com/view/mohammad-shaito/home)
+
+---
+
+🔬 **I’m currently working on:**  
 Web-based **data visualization dashboards** such as **STPH-Viz**, **PhysioViz**, and **RecoViz**, focusing on **spatiotemporal analytics** and **public-health data exploration**.  
 
 🤝 **I’m looking to collaborate on:**  
@@ -10,18 +14,19 @@ Advanced techniques in **LLM-powered interactive dashboards**, **agentic AI for 
 💬 **Ask me about:**  
 **Spatiotemporal databases**, **dashboard design in Python + Streamlit**, and **integrating heterogeneous datasets** for **visual analytics**.  
 
-⚡ **Fun fact:**  
-My first visualization project, [**STPH-Viz**](https://stphviz.streamlit.app), began as a COVID-19 mapping tool and evolved into a full-scale research platform published in [**GeoJournal (Q1)**](https://doi.org/10.1007/s10708-025-11311-x).  
-Its successor, the [**COVID-19 and Flu Data Visualizer**](https://visual1.streamlit.app), was later presented at [**ACM PETRA 2025**](https://doi.org/10.1145/3733155.3734893).
+⚡ **Research Highlights & Fun facts:**  
+*   My first visualization project, [**STPH-Viz**](https://stphviz.streamlit.app), began as a COVID-19 mapping tool and evolved into a full-scale research platform published in [**GeoJournal (Q1)**](https://doi.org/10.1007/s10708-025-11311-x).  
+*   Its successor, the [**COVID-19 and Flu Data Visualizer**](https://visual1.streamlit.app), was later presented at [**ACM PETRA 2025**](https://doi.org/10.1145/3733155.3734893).
+*   My latest framework, [**PhysioViz**](https://physioviz3.streamlit.app), an engine for modeling high-frequency temporal bio-signals, was published in **ACM PETRA, Springer LNCS Proceedings**.
 
 ---
 
 ## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mshaito)
+[![UTA Email](https://img.shields.io/badge/UTA%20Mail-0078D4?logo=maildotru&logoColor=white)](mailto:shaito@uta.edu)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mshaito78@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohammad.shaito)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohammad.shaito)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mshaito)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mshaito78@gmail.com)
-[![UTA Email](https://img.shields.io/badge/UTA%20Mail-0078D4?logo=maildotru&logoColor=white)](mailto:mohammad.shaito@mavs.uta.edu)
 
 ---
 
@@ -51,10 +56,6 @@ Its successor, the [**COVID-19 and Flu Data Visualizer**](https://visual1.stream
 ![](https://nirzak-streak-stats.vercel.app/?user=mshaito&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mshaito&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=mshaito&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
