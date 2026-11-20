@@ -30,6 +30,14 @@
 *   Its successor, the 📊 [**COVID-19 and Flu Data Visualizer**](https://visual1.streamlit.app), was later presented at [**ACM PETRA 2025**](https://doi.org/10.1145/3733155.3734893).
 *   My latest framework, 🧠 [**PhysioViz**](https://physioviz3.streamlit.app), an engine for modeling high-frequency temporal bio-signals, was published in **ACM PETRA, Springer LNCS Proceedings**.
 
+### ⚡ Research Highlights & Milestones
+
+- 🗺️ [**STPH-Viz**](https://stphviz.streamlit.app/) began as a COVID-19 mapping tool and grew into an interactive platform for exploring county-level public health data. The research was published in [**GeoJournal**](https://doi.org/10.1007/s10708-025-11311-x).
+- 📊 [**COVID-19 and Flu Data Visualizer**](https://visual1.streamlit.app/) extends that work with synchronized maps and time-series charts for comparing COVID-19 and flu trends. It was presented at [**ACM PETRA 2025**](https://doi.org/10.1145/3733155.3734893).
+- 🧠 [**PhysioViz**](https://physioviz3.streamlit.app/) is an interactive web app for exploring how synthetic EEG, ECG, and electrodermal activity (EDA) signals change over time. The paper appears in the [**PETRA 2026, Part I proceedings (Springer)**](https://doi.org/10.1007/978-3-032-38039-5_29).
+
+---
+
 ---
 
 ## 🌐 Socials
